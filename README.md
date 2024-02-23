@@ -1,1 +1,2 @@
 # samplerepository
+welcome to STC
